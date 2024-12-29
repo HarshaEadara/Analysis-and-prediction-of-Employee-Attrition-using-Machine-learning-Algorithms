@@ -1,4 +1,4 @@
-# Analysis-and-prediction-of-Employee-Attrition-using-Machine-learning-Algorithms
+# Analysis and Prediction of Employee Attrition using Machine learning Algorithms
 This repository provides a comprehensive analysis of employee attrition using IBM Employee Attrition Data. The project leverages Exploratory Data Analysis (EDA), machine learning algorithms, and interactive dashboards to identify trends, predict attrition, and assist HR teams in developing strategies to improve employee retention.
 
 ## Table of Contents
